@@ -38,7 +38,13 @@ Grid of instanced cubes, scale animation driven by Noise TOP. Proper setup of sh
 
 
 
+## Instances vector rotate
 
+Proper setup of instances oriented to point normal vector, uses the add SOP to add an up vector attribute, line MAT for rendering.
+
+<p align="center">
+<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/instances_vector_rotate/pvw.gif" alt="pvw image not found" width="720" height="500"/>
+</p>
 
 ## Noise displacement Polyhop tutorial
 
