@@ -86,6 +86,16 @@ Based on [Aurelian Ionus aka Paketa12 tutorial](https://www.facebook.com/paketa1
 
 
 
+## Rutt-Etra scanlines FX
+
+Recreate the cool fx from analog synthetizer Rutt-Etra, vertex displacement based on input texture luminance. made with GLSL material
+
+<p align="center">
+<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/rutt_etra/pvw.gif" alt="pvw image not found" width="720" height="500"/>
+</p>
+
+
+
 ## Spring lines
 
 Lines behaving like springs with constrained ends, affected by external force. Lots of mystic SOP operator in there: metaball SOP, Force SOP, Spring SOP... 
