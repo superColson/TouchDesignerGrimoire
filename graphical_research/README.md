@@ -91,7 +91,7 @@ Old demo project of cubic particles oriented towards their movement path. Shadow
 updated to v2, Based on [Aurelian Ionus aka Paketa12 tutorial](https://www.youtube.com/watch?v=0A01XKt_3rM), plexus-like effect built with TOP operators (and a few CHOP), awesome texture maths in there !
 
 <p align="center">
-<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/plexus_paketa12/pvw.gif" alt="pvw image not found" width="720" height="500"/>
+<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/plexus_paketa12/pvw_v2.gif" alt="pvw image not found" width="720" height="500"/>
 </p>
 
 
