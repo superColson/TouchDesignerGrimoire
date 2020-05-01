@@ -1,3 +1,13 @@
+## 3D Trails
+
+Based on an [Atagen tutorial](https://www.youtube.com/watch?v=ykpkqmoxRyo), 3D trails processed with GLSL MAT, use of swaggy_bokeh by Ovvostudio, Bloom fx by keithlostracco
+
+<p align="center">
+<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/3d_trails/pvw.gif" alt="pvw image not found" width="720" height="500"/>
+</p>
+
+
+
 ## Bees & Bombs cubes pattern
 
 Reproduction of [Dave Whyte work](https://www.instagram.com/p/BFKeuxOlont/?utm_source=ig_web_copy_link), isometric view of cubes rotation. Animation is driven by a 32-bit color ramp which holds the rx ry rz values.
