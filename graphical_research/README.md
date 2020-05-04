@@ -16,7 +16,13 @@ Reproduction of [Dave Whyte work](https://www.instagram.com/p/BFKeuxOlont/?utm_s
 <img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/beesbomb_cubes_pattern/pvw.gif" alt="pvw image not found" width="500" height="500"/>
 </p>
 
+## Cube voxels
 
+sampling Simplex 3D noise to scale cube instances. SSAO on render
+
+<p align="center">
+<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/cube_voxels/pvw.gif" alt="pvw image not found" width="500" height="500"/>
+</p>
 
 ## Point Cloud Tutorial by Markus Heckmann (Derivative)
 
