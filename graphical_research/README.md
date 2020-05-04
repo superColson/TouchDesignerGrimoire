@@ -134,10 +134,22 @@ Attempt to recreate the work of [Mike Creighton on topography line effect](https
 <img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/topography/pvw.gif" alt="pvw image not found" width="720" height="500"/>
 </p>
 
+
+
 ## Truchet Tiles
 
 Little demo of Truchet tiles animation
 
 <p align="center">
 <img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/truchet_tiles/pvw.gif" alt="pvw image not found" width="500" height="500"/>
+</p>
+
+
+
+## Wireframe Landscape
+
+Discord challenge to recreate artwork from ???. Multiple noises + height map in PhongMAT  to create the "mountain" effect
+
+<p align="center">
+<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/wireframe_landscape/pvw.gif" alt="pvw image not found" width="500" height="600"/>
 </p>
