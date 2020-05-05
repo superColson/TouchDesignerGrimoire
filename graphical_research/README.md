@@ -24,6 +24,16 @@ sampling Simplex 3D noise to scale cube instances. SSAO on render
 <img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/cube_voxels/pvw.gif" alt="pvw image not found" width="500" height="500"/>
 </p>
 
+## Curl Noise driven particles
+
+Particle system driven by curl noise using compute shader, based on a [tutorial from Bruno Imbrizi](https://www.youtube.com/watch?v=DkSwEY-m9GA) . GLSL, instances.
+
+<p align="center">
+<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/curl_noise_particles/pvw.gif" alt="pvw image not found" width="720" height="500"/>
+</p>
+
+
+
 ## Point Cloud Tutorial by Markus Heckmann (Derivative)
 
 Project based on fantastic [Markus Heckmann point cloud tutorial](https://www.youtube.com/watch?v=QB3P0-uCszo) , it creates a 3D mesh particle dissolve effect, all the particle system (position, life, color) is built with TOP, very cool features explained here. Project also contains a custom OBJ to Point Cloud converter/normalizer.
