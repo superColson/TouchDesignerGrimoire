@@ -72,6 +72,18 @@ Proper setup of instances oriented to point normal vector, uses the add SOP to a
 <img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/instances_vector_rotate/pvw.gif" alt="pvw image not found" width="720" height="500"/>
 </p>
 
+
+
+## Audioreactive geometry Ko Hui tutorial
+
+Audio spectrum visualization based on the tutorial from [Noto the talking ball (Ko Hui)](https://www.youtube.com/watch?v=jf718jbSoTU&feature=emb_title). Super cool use of PBR Material with different maps. 
+
+<p align="center">
+<img src="https://github.com/superColson/TouchDesignerGrimoire/raw/master/graphical_research/kohui_spectrum/pvw.gif" alt="pvw image not found" width="720" height="500"/>
+</p>
+
+## 
+
 ## Noise displacement Polyhop tutorial
 
 Based on [Simon Alexander-Adams tutorial](https://www.simonaa.media/tutorials/noisedisplacement), Simplex 3D Noise resampled twice and used to generate normal and height map in the Phong material. SSAO on the render. very cool stuff
